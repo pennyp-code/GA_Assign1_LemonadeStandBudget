@@ -1,0 +1,32 @@
+account_name,account_number,title_description,income_expense,amount,transaction_date,vendor_or_customer
+daffy duck,1,acme chairs,expense,$768.00 ,2024-01-09,looney tunes
+minnie mouse ,2,heart shaped table cloth,expense,$83.90,2024-1-29,looney tunes
+mickey mouse,3,purchase lemons,expense,$2345.00,2024-1-13,acme lemons
+minnie mouse,2,sale of lemonade,income,$15000.43,2024-2-2,cookie monster lemonade cookies ltd
+daffy duck,1,wages to mickey mouse,expense,$34.98,2024-2-12,staff
+daffy duck,1,wages to minnie mouse,expense,$59.34,2024-2-12,staff
+minnie mouse,2,purchase lemons,expense,$2345.00,2024-2-13,acme lemons
+minnie mouse,2,sale of lemonade,income,$15000.50,2024-2-15,cookie monster lemonade cookies ltd
+minnie mouse,2,purchase lemons,expense,$3234.90,2024-3-13,acme lemons
+minnie mouse,2,purchase lemons,expense,$3234.90,2024-4-13,acme lemons
+donald duck,5,shade sails,expense,$40932.00,2024-4-1,acme
+minnie mouse,2,sale of lemonade,income,$15000.50,2024-2-15,cookie monster lemonade cookies ltd
+minnie mouse,2,purchase lemons,expense,$3234.90,2024-5-13,acme lemons
+minnie mouse,2,sale of lemonade,income,$14700.50,2024-2-15,cookie monster lemonade cookies ltd
+minnie mouse,2,purchase lemons,expense,$3234.90,2024-6-13,acme lemons
+minnie mouse,2,sale of lemonade,income,$1300.50,2024-2-15,cookie monster lemonade cookies ltd
+minnie mouse,2,sale of lemonade,income,$1300.50,2024-2-15,cookie monster lemonade cookies ltd
+daffy duck,1,wages to mickey mouse,expense,$34.98,2024-3-12,staff
+daffy duck,1,wages to minnie mouse,expense,$59.34,2024-3-12,staff
+minnie mouse,2,sale of lemonade,income,$1540.50,2024-2-15,woolworths
+minnie mouse,2,sale of lemonade,income,$1300.50,2024-5-15,cookie monster lemonade cookies ltd
+daffy duck,1,wages to mickey mouse,expense,$34.98,2024-4-13,staff
+daffy duck,1,wages to minnie mouse,expense,$59.34,2024-4-13,staff
+minnie mouse,2,sale of lemonade,income,$1300.50,2024-2-15,cookie monster lemonade cookies ltd
+minnie mouse,2,sale of lemonade,income,$1300.50,2024-2-15,cookie monster lemonade cookies ltd
+pluto,7,juicer,expense,$234.94,2024-01-01,acme lemons
+minnie mouse,2,purchase lemons,expense,$324.98,2024-11-23,acme lemons
+testing,90,test,expense,$90.99,1909-10-02,testing
+minnie mouse,2,testing,income,$50.00,1980-06-06,acme test
+test,9,test,income,$98.78,1980-09-09,test
+mickey mouse,5,lemons,income,$52.32,2023-09-23,acme
